@@ -1,5 +1,6 @@
 # coding: utf-8
 # * 新增加的一行代码
+# hot-fix commit
 import wx,threading
 from socket import socket,AF_INET,SOCK_STREAM
 class YsjClient(wx.Frame):
