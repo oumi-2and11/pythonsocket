@@ -1,5 +1,5 @@
 # coding: utf-8
-# 新增加的一行代码
+# * 新增加的一行代码
 import wx,threading
 from socket import socket,AF_INET,SOCK_STREAM
 class YsjClient(wx.Frame):
